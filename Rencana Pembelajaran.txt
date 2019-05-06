@@ -3,4 +3,4 @@ Rencana Pembelajaran
 -PHP Dasar (Jangan MALES !!)
 -MVC (HARUS !!)
 -CODEIGNITER
--Berdoa
+-Berdoa sama Tuhan yee
